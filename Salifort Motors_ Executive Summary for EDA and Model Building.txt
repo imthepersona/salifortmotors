@@ -1,0 +1,35 @@
+Salifort Motors Employee Attrition: 
+Exploratory Data Analysis and Predictive Machine Learning Model Building
+A.G.E. Solutions has been asked to analyze Salifort Motors employee survey data and help build a model that can help predict employees with high risk of leaving the company
+Salifort Motors is facing high employee attrition. The company wants to understand what factors in the survey are the key drivers so that they can improve their overall culture and training. 
+-Organize, Clean and Visualize raw data to better understand the relationship between all captured variables. Our team then created a model to help predict which employees are at high risk of leaving the company. 
+Basic EDA Discoveries:
+-83.4% of employees stay in the company
+-Avg tenure by department: 3-5 years
+-Mean Evaluation Score is 72% out of 100%
+-Average Projects: 4
+-Most Satisfied Employees work an average of 200 hours a month; Lowest Sat level with employees working an avg 100 hours
+-Average satisfaction level is 63% out of 100%
+-24% of workers are overworked(more than 200 hrs a month)
+-52.5% of low salary employees have not received a promotion
+- Sales, Technical and Support depts have most employees
+Advanced EDA Discoveries:
+- Created 2 models as the initial one was not         efficient 
+- Recall and F-1 were 92% and 93% respectively. Meaning the model identifies 92% of the actual employees at high risk of leaving the company . 
+- Model Boasts a 94% success rate at identifying a high risk employee 
+-Most Important Factors influencing employee turnover: 
+1st: relative satisfaction 
+2nd: evaluation score
+3rd: Satisfaction - Evaluation Difference
+4th: Satisfaction Level
+5th: Tenure
+6th: Overworked 
+** See Visuals On Next Page **
+
+Actionable Business Recommendations:
+-Focus on employee retention for those with lower satisfaction scores, overworked individuals and those with low salaries and have not had a promotion
+- Have respective department deploy model into the daily workflow to flag at-risk employees for personalized outreach or to help establish systems or programs to address issue. 
+-Take a pro-active approach to leveraging real-time insights year-round 
+
+Executive summary Visuals
+
